@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
 
 - 🔭 I’m currently working on Real Estate Appraiser
 - 🌱 I’m currently learning Data Science and Machine Learn
