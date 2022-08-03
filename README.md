@@ -15,9 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=rafaeldjsm&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldjsm&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
-![](https://visitcount.itsvg.in/api?id=rafaeldjsm&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ![](https://countrush-prod.azurewebsites.net/l/badge/?repository=rafaeldjsm.RepoName)
 
 ### ✍️ Quote
