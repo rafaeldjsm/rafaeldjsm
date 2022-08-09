@@ -17,7 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=rafaeldjsm&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeldjsm&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-![Visitors](https://countrush-prod.azurewebsites.net/l/badge/?repository=rafaeldjsm.RepoName)
+![Visitors](https://countrush-prod.azurewebsites.net/l/badge/?repository=rafaeldjsm.rafaeldjsm)
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=rafaeldjsm&label=visualizações&labelColor=%23002857&countColor=%23000000&style=plastic)
 
