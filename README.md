@@ -1,8 +1,8 @@
 ### Hi there ! Welcome to my Github profile. 👋
 ### My name is Rafael de Jesus !
 
-<p align center>
-  img src = "https://github.com/rafaeldjsm/rafaeldjsm/blob/main/6ca14ae7-735a-4ba2-a203-864b0eebab3d.jpg"
+<p align = "center">
+  <img src = "https://github.com/rafaeldjsm/rafaeldjsm/blob/main/6ca14ae7-735a-4ba2-a203-864b0eebab3d.jpg"/>
   </p>
 
 
