@@ -16,7 +16,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 ![Excel](https://img.shields.io/badge/excel-%2300f.svg?style=for-the-badge&logo=excel&logoColor=ffdd54)
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 
+<p align = "center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 </p>
 
 
 # 📊GitHub Stats :
