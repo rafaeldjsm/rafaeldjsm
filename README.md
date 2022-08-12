@@ -1,5 +1,6 @@
-### Hi there ! Welcome to my Github profile. 👋
-### My name is Rafael de Jesus !
+### Welcome to my Github profile. 👋
+### My name is Rafael de Jesus ! I'm a Data Science Enthusiast and a math lover.
+### Engineer, teacher and lifelong learner!
 
 <p align = "center">
   <img width="50%" src = "https://github.com/rafaeldjsm/rafaeldjsm/blob/main/6ca14ae7-735a-4ba2-a203-864b0eebab3d.jpg"/>
