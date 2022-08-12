@@ -2,16 +2,14 @@
 ### My name is Rafael de Jesus ! I'm a Data Science Enthusiast and a math lover.
 ### Engineer, teacher and lifelong learner!
 
-<p align = "center">
-  <img width="50%" src = "https://github.com/rafaeldjsm/rafaeldjsm/blob/main/6ca14ae7-735a-4ba2-a203-864b0eebab3d.jpg"/>
-  </p>
-
-
-
 - 🔭 I’m currently working on  Civil Engineer and Real Estate Appraiser
 - 🌱 I’m currently learning Data Science and Machine Learn
 - 💬 Ask me about Machine Learn, Statistics and Math problems
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engrmonteiro/) 
+
+<p align = "center">
+  <img width="50%" src = "https://github.com/rafaeldjsm/rafaeldjsm/blob/main/6ca14ae7-735a-4ba2-a203-864b0eebab3d.jpg"/>
+  </p>
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
