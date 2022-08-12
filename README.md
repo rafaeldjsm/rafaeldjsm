@@ -8,7 +8,7 @@
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engrmonteiro/) 
 
 <p align = "center">
-  <img width = "20%" src = "https://github.com/rafaeldjsm/rafaeldjsm/blob/main/6ca14ae7-735a-4ba2-a203-864b0eebab3d.jpg"/>
+  <img width = "50%" src = "https://github.com/rafaeldjsm/rafaeldjsm/blob/main/6ca14ae7-735a-4ba2-a203-864b0eebab3d.jpg"/>
   </p>
 
 # 💻Tech Stack
@@ -16,9 +16,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=ffdd54)
 ![Excel](https://img.shields.io/badge/excel-%2300f.svg?style=for-the-badge&logo=excel&logoColor=ffdd54)
-<p> 
-  <img width = "20%" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-  </p>
+![Github](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
 
 
 # 📊GitHub Stats :
