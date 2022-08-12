@@ -2,7 +2,7 @@
 ### My name is Rafael de Jesus !
 
 <p align = "center">
-  <img width="33%" src = "https://github.com/rafaeldjsm/rafaeldjsm/blob/main/6ca14ae7-735a-4ba2-a203-864b0eebab3d.jpg"/>
+  <img width="50%" src = "https://github.com/rafaeldjsm/rafaeldjsm/blob/main/6ca14ae7-735a-4ba2-a203-864b0eebab3d.jpg"/>
   </p>
 
 
