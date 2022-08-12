@@ -1,9 +1,15 @@
 ### Hi there ! Welcome to my Github profile. 👋
 ### My name is Rafael de Jesus !
 
+<p align center>
+  src = "https://github.com/rafaeldjsm/rafaeldjsm/blob/main/6ca14ae7-735a-4ba2-a203-864b0eebab3d.jpg"
+  </p>
+
+
+
 - 🔭 I’m currently working on  Civil Engineer and Real Estate Appraiser
 - 🌱 I’m currently learning Data Science and Machine Learn
-- 💬 Ask me about Math problems
+- 💬 Ask me about Machine Learn, Statistics and Math problems
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engrmonteiro/) 
 
 # 💻Tech Stack
